@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <Deterministic>False</Deterministic>
+    <RepositoryUrl>https://github.com/RobertLeisner/Bodoconsult.Core.Charting.Base</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageId>Bodoconsult.Core.Charting.Base</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>Robert Leisner</Authors>
+    <Company>Bodoconsult EDV-Dienstleistungen GmbH</Company>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Chart database datatable piechart linechart risk return barchart pointchart</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Charting base library for easy charting of database data</Description>
+    <PackageReleaseNotes>Bugfixes</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/RobertLeisner/Bodoconsult.Core.Charting.Base</PackageProjectUrl>
+    <NeutralLanguage>en</NeutralLanguage>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Bodoconsult.Core.Typography" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>

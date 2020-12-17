@@ -1,0 +1,7 @@
+D:\Daten\Projekte\Tools\Bodoconsult.Core.Charting\Bodoconsult.Core.Charting.Base\obj\Debug\netcoreapp3.1\Bodoconsult.Core.Charting.Base.csprojAssemblyReference.cache
+D:\Daten\Projekte\Tools\Bodoconsult.Core.Charting\Bodoconsult.Core.Charting.Base\obj\Debug\netcoreapp3.1\Bodoconsult.Core.Charting.Base.csproj.CoreCompileInputs.cache
+D:\Daten\Projekte\Tools\Bodoconsult.Core.Charting\Bodoconsult.Core.Charting.Base\bin\Debug\netcoreapp3.1\Bodoconsult.Core.Charting.Base.deps.json
+D:\Daten\Projekte\Tools\Bodoconsult.Core.Charting\Bodoconsult.Core.Charting.Base\bin\Debug\netcoreapp3.1\Bodoconsult.Core.Charting.Base.dll
+D:\Daten\Projekte\Tools\Bodoconsult.Core.Charting\Bodoconsult.Core.Charting.Base\bin\Debug\netcoreapp3.1\Bodoconsult.Core.Charting.Base.pdb
+D:\Daten\Projekte\Tools\Bodoconsult.Core.Charting\Bodoconsult.Core.Charting.Base\obj\Debug\netcoreapp3.1\Bodoconsult.Core.Charting.Base.dll
+D:\Daten\Projekte\Tools\Bodoconsult.Core.Charting\Bodoconsult.Core.Charting.Base\obj\Debug\netcoreapp3.1\Bodoconsult.Core.Charting.Base.pdb

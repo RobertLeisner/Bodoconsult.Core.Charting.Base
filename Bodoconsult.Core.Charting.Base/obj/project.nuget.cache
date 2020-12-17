@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KjKZJ3d2rQHqYNeGJXnigNAsxpXDLyzJ9+FL9M6YHer6FKKE8ANti8+y4EZ6tGolnNsWTPd3gcWHzU5ZmAZFJg==",
+  "success": true,
+  "projectFilePath": "D:\\Daten\\Projekte\\Tools\\Bodoconsult.Core.Charting.Base\\Bodoconsult.Core.Charting.Base\\Bodoconsult.Core.Charting.Base.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rleisner\\.nuget\\packages\\bodoconsult.core.typography\\1.0.0\\bodoconsult.core.typography.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

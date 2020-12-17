@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bodoconsult.Core.Charting.Base/1.0.0": {
+        "dependencies": {
+          "Bodoconsult.Core.Typography": "1.0.0"
+        },
+        "runtime": {
+          "Bodoconsult.Core.Charting.Base.dll": {}
+        }
+      },
+      "Bodoconsult.Core.Typography/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Bodoconsult.Core.Typography.dll": {
+            "assemblyVersion": "1.0.7606.31942",
+            "fileVersion": "1.0.7606.31942"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bodoconsult.Core.Charting.Base/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bodoconsult.Core.Typography/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8isE3MJdjV+Ebez1IN1wz7WKyJDtPItLbOp44IhPgQfr6tzH5/9tZkUSdKnN4ygsv6+ZIo6ewyM8rwHJ95xTwQ==",
+      "path": "bodoconsult.core.typography/1.0.0",
+      "hashPath": "bodoconsult.core.typography.1.0.0.nupkg.sha512"
+    }
+  }
+}
